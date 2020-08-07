@@ -1,5 +1,5 @@
 ### Hi there, I'm Ben 👋
-## I'm a Hpassionate Developer!
+## I'm a passionate Developer!
 -  I’m currently learning everything 
 -  I’m looking to collaborate with others 
 -  2020 Goals: Contribute more to Open Source projects
